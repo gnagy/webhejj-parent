@@ -9,7 +9,7 @@
 
 	<groupId>hu.webhejj</groupId>
 	<artifactId>parentpom</artifactId>
-	<version>2</version>
+	<version>3-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>webhejj parent pom</name>
@@ -32,7 +32,9 @@
 
     <scm>
         <url>https://github.com/webhejj/webhejj-parent</url>
+        <developerConnection>scm:git:https://github.com/webhejj/webhejj-parent.git</developerConnection>
         <connection>scm:git:https://github.com/webhejj/webhejj-parent.git</connection>
+        <tag>HEAD</tag>
     </scm>
 
 	<developers>
